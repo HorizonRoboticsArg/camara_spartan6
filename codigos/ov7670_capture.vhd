@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------
--- Engineer: Mike Field <hamster@snap.net.nz>
+-- Engineer: Mike Field <hamster@snap.net.nz> && Guillote Peladp <guillote@pelado.net>
 -- 
 -- Description: Captures the pixels coming from the OV7670 camera and 
 --              Stores them in block RAM
